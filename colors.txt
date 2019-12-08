@@ -7,5 +7,6 @@ red
 navy blue
 gpink
 white
-orange
-Cyan
+Orange
+cyan
+Azure
