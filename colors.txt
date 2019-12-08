@@ -5,7 +5,8 @@ black
 yellow
 red
 navy blue
-gpink
+pink
 white
 orange
-Cyan
+cyan
+12345
