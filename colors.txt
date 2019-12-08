@@ -7,3 +7,4 @@ red
 navy blue
 gpink
 white
+orange
