@@ -1,6 +1,5 @@
 blue
-<<<<<<< HEAD
-=======
 purple
->>>>>>> e732e4858baad67f67b8dc36d8abea3f798ee30a
 green
+black
+
