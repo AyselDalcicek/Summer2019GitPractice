@@ -10,3 +10,9 @@ white
 orange
 cyan
 12345
+Orange
+cyan
+Azure
+Cyber yellow
+gold
+
