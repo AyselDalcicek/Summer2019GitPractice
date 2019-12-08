@@ -7,12 +7,10 @@ red
 navy blue
 pink
 white
-orange
-cyan
-12345
 Orange
 cyan
 Azure
+French rose
 Cyber yellow
 gold
-
+Fuchsia
