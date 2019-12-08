@@ -5,12 +5,10 @@ black
 yellow
 red
 navy blue
-pink
+gpink
 white
 Orange
 cyan
 Azure
 French rose
-Cyber yellow
-gold
-Fuchsia
+
