@@ -9,5 +9,8 @@
         <module name="Summer2019GitPractice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Summer2019GitPractice" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
